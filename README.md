@@ -93,3 +93,5 @@ Paste them into the token boxes in the app. They can also be provided through th
 ## License
 
 MIT, see [LICENSE](LICENSE).
+
+Developed with assistance from Anthropic's Claude AI.
