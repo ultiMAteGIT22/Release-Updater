@@ -1,0 +1,10 @@
+# Copy this file to repos.txt (the tool also creates repos.txt on first run).
+# One repo per line: a GitHub or GitLab URL, or GitHub owner/repo. Lines starting with # are ignored.
+#
+# Optional overrides after a | :
+#   owner/repo | *x64*.zip                            (download every file matching, any platform)
+#   owner/repo | win:*x64*.zip, linux:*linux*.tar.gz  (choose per platform)
+
+https://github.com/PowerShell/PowerShell
+7zip/7zip
+https://gitlab.com/zzzarathustra-dev/power-moon-recomp
